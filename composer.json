@@ -1,7 +1,7 @@
 {
-    "name": "willdurand/js-translation-bundle",
+    "name": "knawrocki/js-translation-bundle",
     "description": "A pretty nice way to expose your translation messages to your JavaScript.",
-    "keywords": [ "translation", "javascript", "symfony" ],
+    "keywords": [ "translation", "javascript", "symfony4" ],
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
